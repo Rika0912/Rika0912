@@ -78,7 +78,7 @@ I hold a B.Sc. in Computer & Data Science from Alexandria University (2025). I'm
 | [E-commerce Customer Segmentation](https://github.com/Rika0912/E-commerce-Customers-Segmentation) | Unsupervised clustering on multi-table transactional data, with a Power BI report | Python, scikit-learn, Power BI |
 | [Data Science Projects](https://github.com/Rika0912/DS) | Analysis notebooks and a sales dashboard | Python, Excel, Power BI |
 | [Branchez Website](https://github.com/Rika0912/Branchez) | Multi-page static website | HTML, CSS, JavaScript |
-| Water Quality & Microplastics Detection | Graduation project: sensor-based environmental monitoring with an ML classification pipeline | Python, ML, sensors |
+| [Plastech: Water Quality & Microplastics Detection](https://github.com/omnia28/Plastech) | Team graduation project: sensor-based water-quality monitoring with an ML classification pipeline, delivered as a Django web app | Python, Django, ML, sensors |
 
 ---
 
